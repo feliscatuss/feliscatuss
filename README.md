@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @feliscatuss aka CAT.
 - 👀 I’m interested in IoT and electronics.
 - 🌱 Learning Telecommunications, Electronics and Coding.
-- 😺 Ready to collaborate on IoT based things.
+- 😺 I would like to collaborate on IoT based things.
 - 📫 You can reach me out on discord: schrödinger's cat 13🐈#1989.
 
 
