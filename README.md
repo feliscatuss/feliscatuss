@@ -2,7 +2,8 @@
 - 👀 I’m interested in IoT and electronics.
 - 🌱 Learning Telecommunications, Electronics and Coding.
 - 😺 I would like to collaborate on IoT based things.
-- 📫 You can reach me out on discord: schrödinger's cat 13🐈#1989.
+- 📫 You can reach me out on discord: schrödinger's cat 13🐈#5691.
+
 
 
 <!---
