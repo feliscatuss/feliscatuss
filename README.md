@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @feliscatuss aka CAT.
+- 👋 Hi
 - 👀 I’m interested in IoT and electronics.
 - 🌱 Learning Telecommunications, Electronics and Coding.
 - 😺 I would like to collaborate on IoT based things.
