@@ -1,6 +1,5 @@
 - 👋 Hi
-- 👀 I’m interested in IoT based projects.
-- 🌱 Learning networks, Electronics systems and Coding.
+- 🌱 Learning networking, Electronic embedded systems and Coding.
 - 😺 I would like to collaborate on IoT based things.
 - 📫 You can reach me out on discord: schrödinger's cat 13🐈#5691.
 
